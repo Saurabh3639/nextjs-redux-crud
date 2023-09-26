@@ -10,5 +10,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Dependencies
 ```bash
-npm install @reduxjs/toolkit react-redux sequelize mysql2 pg-hstore
+npm install @reduxjs/toolkit react-redux sequelize mysql2 pg-hstore moment-timezone
 ```
